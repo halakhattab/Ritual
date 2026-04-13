@@ -4,7 +4,7 @@
 > and ritual plans based on your mood and needs.
 
 **Built by [Hala Khattab](https://www.linkedin.com/in/hala-khattab-8b28442b)**  
-🌐 **[Live Site](https://ritual.pages.dev)**
+🌐 **[Live Site](https://ritual-3ru.pages.dev)**
 
 ---
 
